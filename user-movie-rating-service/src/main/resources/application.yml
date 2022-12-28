@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: user-movie-rating-service
+
+server:
+  port: 8083
